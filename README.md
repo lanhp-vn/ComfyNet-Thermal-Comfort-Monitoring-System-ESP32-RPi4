@@ -99,13 +99,6 @@ pyserial
 time
 ```
 
-### Deployment Environments
-
-- **clientTemp**: Temperature monitoring nodes
-- **clientWind**: Wind speed monitoring nodes  
-- **station**: Central data collection node
-- **deprecated_standalone**: Legacy standalone client
-
 ## Usage
 
 ### Starting Data Collection
