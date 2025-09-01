@@ -166,49 +166,6 @@ Date,Time,uid,TempNTC,WindSpeed,Temperature,Humidity,Pressure,Gas
 - **Data Rate**: 2 Hz sensor updates
 - **Range**: Typical indoor WiFi coverage
 
-## Limitations and Considerations
-
-### Current Limitations
-
-1. **Spatial Coverage**: Limited to 2 sensor positions per room
-2. **Calibration Reference**: No direct access to building HVAC sensors for validation
-3. **Survey Subjectivity**: AMV data dependent on occupant reporting accuracy
-4. **Temporal Constraints**: Single 24-hour measurement period per room
-
-### Future Improvements
-
-1. **Enhanced Coverage**: Deploy additional sensors at multiple seating locations
-2. **Extended Monitoring**: Multi-day data collection for pattern analysis
-3. **Advanced Analytics**: Machine learning integration for predictive comfort modeling
-4. **Building Integration**: Direct HVAC system interface for real-time control feedback
-
-## Research Applications
-
-### Educational Building Management
-- Data-driven HVAC optimization
-- Energy efficiency improvements
-- Occupant comfort enhancement
-- Building performance benchmarking
-
-### Thermal Comfort Research
-- Field validation of simulation models
-- Regional climate adaptation studies
-- Occupant behavior analysis
-- Standard compliance verification
-
-### Smart Building Integration
-- IoT sensor network deployment
-- Real-time environmental monitoring
-- Automated comfort control systems
-- Predictive maintenance insights
-
-## Documentation
-
-- **Project Report**: `project-report.pdf` - Complete research methodology and findings
-- **Project Poster**: `project-poster.pdf` - Visual summary of results
-- **Hardware Schematics**: Embedded in source code comments
-- **Calibration Data**: WBGT sensor linear regression analysis included
-
 ## Project Update
 
 For questions about this project or collaboration opportunities, please refer to the teammate's repository for the most updated information: https://github.com/JINODK/ComfyNet/tree/master
